@@ -1,8 +1,8 @@
-<h1 align="center">¡Hola! Soy Santiago Bargas 👋</h1>
+<h1 align="center">Hi! I'm Santiago Bargas 👋</h1>
 <h3 align="center">Software Engineer | Data Analyst | Full-Stack Developer</h3>
 
 <p align="center">
-  Transformando procesos corporativos en soluciones tecnológicas escalables. Estudiante avanzado de Ingeniería Informática y desarrollador con experiencia en modernización web, integración de sistemas ERP y análisis de datos.
+  Transforming corporate processes into scalable technological solutions. Advanced Computer Engineering student and developer with experience in web modernization, ERP system integration, and data analysis.
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-santibargas.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Mi_Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/My_Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:santidariobargas@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 💻 Stack Tecnológico
+### 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -36,21 +36,21 @@
 
 ---
 
-### 🚀 Sobre Mí
+### 🚀 About Me
 
-- 🏢 Actualmente liderando la modernización web corporativa, migraciones masivas de datos y automatización de procesos en **Itza Ingeniería**.
-- 🎓 Estudiante avanzado de **Ingeniería Informática** en la UNL FICH.
-- 🌍 Realicé un intercambio académico internacional en **Minas Gerais, Brasil**, alcanzando un nivel avanzado de portugués.
-- 💡 **Me especializo en:** Desarrollo Full-Stack, Sistemas de Gestión Corporativos (Odoo) y Modelado predictivo de datos.
+- 🏢 Currently leading corporate web modernization, massive data migrations, and process automation at **Itza Ingeniería**.
+- 🎓 Advanced **Computer Engineering** student at UNL FICH.
+- 🌍 Completed an international academic exchange in **Minas Gerais, Brazil**, achieving advanced proficiency in Portuguese.
+- 💡 **Specialized in:** Full-Stack Development, Corporate Management Systems (Odoo ERP), and Predictive Data Modeling.
 
 ---
 
-### 📂 Proyectos Destacados
+### 📂 Featured Projects
 
-* 🌐 **[Corporate Website - Itza Ingeniería](https://santibargas.github.io/paginaITZA-2026/index.html):** Arquitectura web moderna mediante carga dinámica (JSON) e integración de mapas interactivos con Leaflet.
-* 🍕 **[CheloPizzas POS & Management](#):** Sistema web integral para gestión de ventas, stock y clientes utilizando React, Next.js y Supabase.
-* ⚙️ **[Integración Odoo ERP](#):** Automatización de lógica de negocios e integración de sistemas corporativos conectando Odoo ERP vía scripts de Python.
-* 🏀 **[NBA MVP Predictor](#):** Sistema basado en redes neuronales con ajuste de hiperparámetros para la predicción de resultados deportivos.
+* 🌐 **[Corporate Website - Itza Ingeniería](https://santibargas.github.io/paginaITZA-2026/index.html):** Modern web architecture using dynamic loading (JSON) and interactive map integration with Leaflet.
+* 🍕 **[CheloPizzas POS & Management](#):** Comprehensive web system for sales, inventory, and customer management using React, Next.js, and Supabase.
+* ⚙️ **[Odoo ERP Integration](#):** Business logic automation and corporate systems integration connecting Odoo ERP via Python scripts.
+* 🏀 **[NBA MVP Predictor](#):** Neural network-based system with hyperparameter tuning for sports results prediction based on historical statistics.
 
 ---
 
